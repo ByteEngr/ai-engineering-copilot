@@ -1,6 +1,6 @@
 # 🤖 AI Engineering Copilot
 
-> An AI-powered engineering assistant that analyses logs, identifies root causes of system failures, and generates actionable insights — so your engineers spend less time debugging and more time building.
+> An AI-powered engineering assistant that analyses logs, identifies root causes of system failures, and generates actionable insights so your engineers spend less time debugging and more time building.
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
